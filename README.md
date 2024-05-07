@@ -5,6 +5,7 @@
 # General Assembly
 
 ---
+<br><br>
 
 ## 👨🏽‍🎓 Data Science Immersive 👨🏽‍🎓
 
