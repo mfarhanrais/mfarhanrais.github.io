@@ -1,10 +1,13 @@
 # Data Scientist/Analyst
+
 ---
+
 <img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
 
 # General Assembly
 
 ---
+
 <br><br>
 
 ## 👨🏽‍🎓 Data Science Immersive 👨🏽‍🎓
@@ -53,17 +56,75 @@ Aggregated heart rate data using API from Strava to build a Tableau dashboard an
 
 > API, Tableau, PyCaret, Streamlit
 
+<br><br>
+
 ---
 
 ## 👨🏽‍🏫 Instructional Associate 👨🏽‍🏫
 
-Subsequently, I became an Instructional Associate for the following class. Below are the capstone projects that I supervised, specialising in computer vision.
+Subsequently, I became an Instructional Associate for the following class. Below are the capstone projects that I supervised, specialising in computer vision and video analysis.
 
-### TITLE
+### 🏃🏽 [Nike Zoom Ally](https://git.generalassemb.ly/hongweileeee/dsi-sg-42/tree/main/capstone) 🏃🏽: Implementing a New AI Feature on Nike Run Club
 
-description
+By Lee Hongwei
 
-> Tech stack:
+*`How might we devise a solution  using machine learning techniques  such as Pose Estimation to  accurately identify common form  errors such as overstriding?`*
+
+Analysing running footages to determine if a runner is overstriding to assist coaches.
+
+> Pose estimation, MediaPipe, OpenCV, LSTM, CONV1D
+
+### 🦼 [TheiaVision](https://git.generalassemb.ly/mangguai/dsi-sg-42/tree/main/Capstone) 🦼: Object Detection Technology for PMD Safety Alerts
+
+By Ng Wei
+
+*`How can we enhance the safety of Personal Mobility Devices (PMDs) in urban environments by using object detection to improve PMD users' ability to perceive and respond to their surroundings?`*
+
+Using computer vision to provide object detection capabilities to PMD users.
+
+> Pytorch, YOLOv8, Roboflow
+
+### 🚗 [Pixel Pilot](https://git.generalassemb.ly/michaelks/dsi-sg-42/tree/main/capstone) 🚗: Evokes High-Resolution Object Detection
+
+By Michael Sutanto
+
+*`How might we integrate an object detection model that can identify Singapore's local vehicles, traffic signs, and traffic-related objects into existing car systems?`*
+
+Using computer vision to augment existing self-driving feature with additional object detection.
+
+> Grounding Dino, YOLOv8
+
+### 💵 [Enhanced ATM Security](https://git.generalassemb.ly/piusyps/dsi-sg-42/tree/main/projects/capstone) 💵: Facial Analysis for Profile Monitoring and Alerting
+
+By Pius Yee
+
+*`How can we utilize profiling using computer vision to provide additional security for bank customers?`*
+
+Predict a user's the gender, age and race as an added authentication measure for ATM security.
+
+> TensorFlow, Keras, MTCNN, ResNet 50, VGGFace
+
+### 👋🏽 [Silent Echoes](https://git.generalassemb.ly/chanjrt/dsi-sg-42/tree/main/Capstone_Project) 👋🏽: From Hand Waves to Written Phrases
+
+By Timothy Chan
+
+*`This project aims to demonstrate the feasibility of scaling this technology to enable more comprehensive interactions and foster understanding between signing and non-signing individuals.`*
+
+Translating sign language to text using computer vision.
+
+> OpenCV, MediaPipe, LSTM
+
+### 🎾 [Ace Advantage](https://git.generalassemb.ly/lance80/dsi-sg-42/tree/main/capstone_project) 🎾: Serve Optimization for Tennis Players
+
+By Ngan Han Kiong
+
+*`How might we analyze serve performance data and develop personalized strategies for optimizing serve accuracy, power, and placement?`*
+
+Using machine learning to analyse video of tennis matches to predict tennis serve outcomes and improve serve postures.
+
+> 3D-CNN, LSTM, MoveNet
+
+<br><br>
 
 ---
 
