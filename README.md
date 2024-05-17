@@ -12,7 +12,7 @@
 
 ## 👨🏽‍🎓 Data Science Immersive 👨🏽‍🎓
 
-[https://generalassemb.ly/students/courses/data-science-bootcamp/singapore]()
+[https://generalassemb.ly/students/courses/data-science-bootcamp/singapore](https://generalassemb.ly/students/courses/data-science-bootcamp/singapore)
 
 Below are the projects that I completed as a Data Science Immersive bootcamp student at General Assembly Singapore.
 
@@ -130,7 +130,7 @@ Using machine learning to analyse video of tennis matches to predict tennis serv
 
 ## 👨🏽‍🎓 Data Analytics 👨🏽‍🎓
 
-[https://generalassemb.ly/students/courses/data-analytics-short-course/singapore]()
+[https://generalassemb.ly/students/courses/data-analytics-short-course/singapore](https://generalassemb.ly/students/courses/data-analytics-short-course/singapore)
 
 Below are the projects that I completed as a Data Analytics student at General Assembly. They all center around the same problem statement as a central theme, with slightly differing datasets and incremental approaches.
 
